@@ -140,5 +140,5 @@ dist
 
 # Current Config
 client/node_modules/
-server/config/default.js
+server/config/default.json
 server/node_modules/
